@@ -1,12 +1,12 @@
 {
-  "export_job_id": "788f128b-415e-43c2-9c6d-f698d6c36bca",
+  "export_job_id": "9f24ea48-b913-422e-b86e-b5f53456f91e",
   "id_short": 219503,
-  "published_at": "2026-04-11T19:27:27Z",
+  "published_at": "2026-04-19T19:28:36Z",
   "repo_name": "all-restaurants-in-murrieta-california-us-sample-219503",
   "sample_asset_name": "beamstation_219503_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/219503/beamstation_219503_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "dd6823ce33cc092e463de01fed76c156c2e9700a036a5a75893ac6d8b152813f",
-  "sample_size_bytes": 91324,
-  "total_records": 196
+  "sample_records": 18,
+  "sample_sha256": "b5aff90d3fde139cda81cec4bbfe94313e415e8292d7b54517be5ec6f0815f72",
+  "sample_size_bytes": 72040,
+  "total_records": 183
 }
