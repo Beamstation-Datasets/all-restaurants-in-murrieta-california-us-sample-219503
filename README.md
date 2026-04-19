@@ -1,6 +1,6 @@
 # All Restaurants in Murrieta, California, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 18 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `219503` |
 | Location | Murrieta |
 | Category | Restaurants |
-| Full dataset size | 196 records |
-| Free sample size | 19 records (9.69%) |
-| Last export | 2026-04-09T09:43:44.007994+00:00 |
+| Full dataset size | 183 records |
+| Free sample size | 18 records (9.84%) |
+| Last export | 2026-04-16T09:39:35.368040+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-murrieta-california-us-sample-219503/releases/download/sample-latest/beamstation_219503_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
