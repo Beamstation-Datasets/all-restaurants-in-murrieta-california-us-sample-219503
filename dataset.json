@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Detailed restaurant dataset for Murrieta, California with a population of over 110k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Murrieta, California, US",
-  "export_job_id": "958c23f6-bdb2-4fc9-a545-b398baea6b64",
+  "export_job_id": "18659eef-6cf7-4051-8b87-bba5c4e65923",
   "github_org": "Beamstation-Datasets",
   "id_short": 219503,
   "location_name": "Murrieta",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-murrieta-california-us-sample-219503",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/219503/beamstation_219503_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.6,
-  "sample_records": 17,
-  "sample_sha256": "2c7fe62a0efb7b8c0c4476c1ef15930cba90159e44fc027006a97675ccb4537f",
-  "sample_size_bytes": 83798,
-  "total_records": 177,
-  "updated_at": "2026-04-23T09:36:31.859154+00:00"
+  "sample_records": 19,
+  "sample_sha256": "a4eb783a775063f48ee0eaae4acb9b2e93b12e487aecb72a46a4d472b40cf8cb",
+  "sample_size_bytes": 91683,
+  "total_records": 198,
+  "updated_at": "2026-04-30T09:39:12.419926+00:00"
 }
